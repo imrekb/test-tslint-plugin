@@ -1,0 +1,18 @@
+{
+  "name": "nested",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@ptsecurity/tslint-config": "^0.10.1",
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2",
+    "typescript-tslint-plugin": "^0.2.1"
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "extends": ["@ptsecurity/tslint-config"]
+}
